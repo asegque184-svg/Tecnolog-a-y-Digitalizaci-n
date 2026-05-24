@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="es" id="exe-node-20260523221524041NEN">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="eXeLearning v3.0.0">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-sa/4.0/">
+<title>Uso responsable de las tecnologías | Nuestro reto 3D</title>
+<script>document.querySelector("html").classList.add("js");</script><script src="../libs/jquery/jquery.min.js"> </script><script src="../libs/common_i18n.js"> </script><script src="../libs/common.js"> </script><script src="../libs/exe_export.js"> </script><script src="../libs/bootstrap/bootstrap.bundle.min.js"> </script><link rel="stylesheet" href="../libs/bootstrap/bootstrap.min.css">
+<script src="../idevices/text/text.js"> </script><link rel="stylesheet" href="../idevices/text/text.css">
+<link rel="stylesheet" href="../content/css/base.css">
+<script src="../theme/default.js"> </script><link rel="stylesheet" href="../theme/content.css">
+</head>
+<body class="exe-export exe-web-site" lang="es">
+<script>document.body.className+=" js"</script><div class="exe-content exe-export pre-js siteNav-hidden"> <nav id="siteNav"> <ul> <li> <a href="../index.html" class="main-node no-ch">PORTADA</a>
+</li>
+<li class="current-page-parent"> <a href="../html/inicio-nuestro-reto-3d.html" class="daddy">Inicio: ¡Nuestro Reto 3D!</a><ul> <li> <a href="../html/1-presentacion-del-proyecto.html" class="no-ch">1. Presentación del proyecto</a>
+</li>
+<li> <a href="../html/2-organizacion-del-proyecto.html" class="no-ch">2. Organización del proyecto</a>
+</li>
+<li class="current-page-parent"> <a href="../html/3-desarrollo-de-actividades.html" class="daddy">3. Desarrollo de actividades</a><ul> <li> <a href="../html/actividad-1.html" class="no-ch">Actividad 1</a>
+</li>
+<li> <a href="../html/actividad-2.html" class="no-ch">Actividad 2</a>
+</li>
+<li> <a href="../html/actividad-3.html" class="no-ch">Actividad 3</a>
+</li>
+<li> <a href="../html/actividad-4.html" class="no-ch">Actividad 4</a>
+</li>
+<li class="active"> <a href="../html/uso-responsable-de-las-tecnologias.html" class="active no-ch">Uso responsable de las tecnologías</a>
+</li>
+</ul>
+</li>
+<li> <a href="../html/4-evaluacion.html" class="no-ch">4. Evaluación</a>
+</li>
+<li> <a href="../html/5-recursos.html" class="no-ch">5. Recursos</a>
+</li>
+<li> <a href="../html/6-guia-didactica.html" class="no-ch">6. Guía didáctica</a>
+</li>
+<li> <a href="../html/7-archivo-fuente-y-creditos.html" class="no-ch">7. Archivo fuente y créditos.</a>
+</li>
+</ul>
+</li>
+</ul></nav><main id="20260523221524041NEN" class="page"> <header id="header-20260523221524041NEN" class="page-header"> <h1 class="package-title">Nuestro reto 3D</h1>
+<h2 class="page-title">Uso responsable de las tecnologías</h2></header><div id="page-content-20260523221524041NEN" class="page-content"> <article id="20260523221529331YS0" class="box no-header"> <div class="box-head"> <button class="box-toggle box-toggle-on" title="Ocultar/Mostrar contenido"> <span>Ocultar/Mostrar contenido</span></button>
+</div>
+<div class="box-content"> <div id="20260523221529329E5T" class="idevice_node text" data-idevice-path="../idevices/text/" data-idevice-type="text" data-idevice-component-type="json"><div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><style>
+  :root {
+    --primary-green: #59a638;
+    --primary-green-hover: #46822b;
+    --text-dark: #333333;
+    --bg-light: #f7faf5;
+    --border-color: #e2ebd9;
+    --radius: 12px;
+  }
+
+  .nodo6-container {
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    color: var(--text-dark);
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 15px;
+    box-sizing: border-box;
+  }
+
+  /* Cabecera del Nodo */
+  .nodo6-header {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 25px;
+  }
+
+  .nodo6-number {
+    background-color: var(--primary-green);
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+
+  .nodo6-title {
+    color: var(--primary-green);
+    font-size: 24px;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin: 0;
+    letter-spacing: 0.5px;
+  }
+
+  /* Distribución Principal (Ilustración + Bloques de Texto) */
+  .nodo6-main-layout {
+    display: flex;
+    gap: 25px;
+    margin-bottom: 30px;
+    align-items: stretch;
+  }
+
+  /* Ilustración Izquierda con Emoji */
+  .nodo6-illustration {
+    background-color: #eef5ea;
+    border-radius: var(--radius);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-width: 180px;
+    font-size: 70px;
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.02);
+  }
+  .nodo6-illustration .sub-icon {
+    font-size: 30px;
+    margin-top: -15px;
+  }
+
+  /* Contenedor de Bloques Derechos */
+  .nodo6-blocks {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    flex-grow: 1;
+  }
+
+  .nodo6-card {
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius);
+    padding: 20px;
+    background-color: #ffffff;
+  }
+
+  .card-title {
+    color: var(--primary-green);
+    font-weight: 700;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 10px;
+    letter-spacing: 0.5px;
+  }
+
+  .card-text {
+    font-size: 14.5px;
+    line-height: 1.6;
+    margin: 0;
+    color: #444;
+  }
+
+  /* Listado de Normas */
+  .normas-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .normas-list li {
+    font-size: 14.5px;
+    line-height: 1.6;
+    margin-bottom: 8px;
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    color: #444;
+  }
+
+  .normas-list li:last-child {
+    margin-bottom: 0;
+  }
+
+  .normas-list li::before {
+    content: "✓";
+    color: var(--primary-green);
+    font-weight: bold;
+    font-size: 16px;
+  }
+
+  /* Sección Inferior: Recursos Recomendados */
+  .recursos-section {
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius);
+    padding: 20px;
+    background-color: #ffffff;
+  }
+
+  .recursos-title {
+    color: var(--primary-green);
+    font-weight: 700;
+    font-size: 15px;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 15px;
+  }
+
+  .recursos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 15px;
+  }
+
+  .recurso-link {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    background-color: var(--bg-light);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    text-decoration: none !important;
+    transition: all 0.2s ease;
+    text-align: center;
+  }
+
+  .recurso-link:hover {
+    background-color: #ffffff;
+    border-color: var(--primary-green);
+    box-shadow: 0 4px 8px rgba(89, 166, 56, 0.1);
+    transform: translateY(-2px);
+  }
+
+  .recurso-main-name {
+    font-weight: 800;
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 4px;
+  }
+
+  .recurso-desc {
+    font-size: 12px;
+    color: #666;
+    line-height: 1.3;
+  }
+
+  /* Ajustes para Pantallas Pequeñas */
+  @media (max-width: 768px) {
+    .nodo6-main-layout {
+      flex-direction: column;
+    }
+    .nodo6-illustration {
+      padding: 15px;
+      font-size: 50px;
+    }
+    .nodo6-title {
+      font-size: 18px;
+    }
+  }
+</style>
+<div class="nodo6-container">
+<div class="nodo6-header">
+<div class="nodo6-number"><br></div>
+<h2 class="nodo6-title">Protección de Datos y Ciudadanía Digital</h2>
+</div>
+<div class="nodo6-main-layout">
+<div class="nodo6-illustration"><span>🛡️</span> <span class="sub-icon">💻</span></div>
+<div class="nodo6-blocks">
+<div class="nodo6-card">
+<h3 class="card-title">Uso responsable de las tecnologías</h3>
+<p class="card-text">Utilizamos herramientas digitales de forma segura, respetuosa y responsable. Protegemos nuestros datos personales y respetamos los derechos de autor.</p>
+</div>
+<div class="nodo6-card">
+<h3 class="card-title">Normas digitales</h3>
+<ul class="normas-list">
+<li>No compartimos datos personales propios ni de otras personas.</li>
+<li>Usamos un lenguaje adecuado y respetuoso.</li>
+<li>Citamos las fuentes y usamos recursos con licencia libre.</li>
+<li>Respetamos las ideas y trabajos de los demás.</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="recursos-section">
+<h3 class="recursos-title">Recursos Recomendados</h3>
+<div class="recursos-grid"><a href="https://www.incibe.es" target="_blank" class="recurso-link" rel="noopener"> <span class="recurso-main-name" style="color: #da291c;">incibe_</span> <span class="recurso-desc">Instituto Nacional de Ciberseguridad</span> </a> <a href="https://www.aepd.es" target="_blank" class="recurso-link" rel="noopener"> <span class="recurso-main-name" style="color: #0056b3;">aepd</span> <span class="recurso-desc">Agencia Española de Protección de Datos</span> </a> <a href="https://www.is4k.es" target="_blank" class="recurso-link" rel="noopener"> <span class="recurso-main-name" style="color: #00a896;">is4k</span> <span class="recurso-desc">Internet Segura for Kids</span> </a></div>
+</div>
+</div><p class="clearfix"></p></div>
+            </div></div></div></div>
+</div></article>
+</div></main><div class="nav-buttons"> <a href="../html/actividad-4.html" title="Anterior" class="nav-button nav-button-left"> <span>Anterior</span></a><a href="../html/4-evaluacion.html" title="Siguiente" class="nav-button nav-button-right"> <span>Siguiente</span></a>
+</div>
+<footer id="siteFooter"><div id="siteFooterContent"> <div id="packageLicense" class="cc cc-by-sa"> <p> <span class="license-label">Licencia: </span><a href="https://creativecommons.org/licenses/by-sa/4.0/" class="license">creative commons: attribution - share alike 4.0</a></p>
+</div>
+</div></footer>
+</div>
+<p id="made-with-eXe"> <a href="https://exelearning.net/" target="_blank" rel="noopener"> <span>Creado con eXeLearning <span>(nueva ventana)</span></span></a></p>
+</body>
+</html>
